@@ -19,7 +19,7 @@ Follow these steps to get the app up and running on your local machine:
 
 2. **Navigate to Your Project Directory:** After creation, change into your project directory.
 
-3. **Integrate Builder.io:** Initialize Builder.io integration to install dependencies and update `next.config.mjs` as needed.
+3. **Integrate Builder.io:** use `npm init builder.io@latest` and select install dependencies. To initialize Builder.io integration and install dependencies.
 
 4. **Run the Development Server:** Start the development server. This will compile your application and make it available at http://localhost:3000. You're now ready to start developing your application with Next.js and Builder.io!
 
