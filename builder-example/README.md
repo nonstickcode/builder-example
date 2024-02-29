@@ -11,4 +11,6 @@ To initiate the application on your local machine, follow these steps:
 3. Next `npm run dev`.
 4. Access [http://localhost:3000/builder-demo-crypto](http://localhost:3000/builder-demo-crypto) in your web browser.
 
+# USE CHROME BROWSER not SAFARI
+
 Happy Coding!
